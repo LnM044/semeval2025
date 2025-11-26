@@ -39,3 +39,4 @@ python notebooks/test_all.py
 
 Fine-tuned adapters can be found with link: 
 1. https://huggingface.co/parcefal99/semeval25-task11-adapters/tree/main
+2. https://huggingface.co/lnm044/models
